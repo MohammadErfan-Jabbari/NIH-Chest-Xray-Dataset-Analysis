@@ -11,5 +11,3 @@ os.environ['KAGGLE_CONFIG_DIR'] = current_dir
 path = kagglehub.dataset_download("nih-chest-xrays/data")
 
 print("Path to dataset files:", path)
-
-mv /home/erfan/.cache/kagglehub/datasets/nih-chest-xrays/data/versions/3 /home/erfan/data/NIH-Chest-Xray-Dataset-Analysis/
